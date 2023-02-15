@@ -1,5 +1,7 @@
 # Intro to Bash
 
+![Bash Icon](docs/Pictures/Gnu-bash-logo.png)
+
 This repository is intended as a guide that you can follow along to learn about Bash.
 
 

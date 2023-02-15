@@ -10,10 +10,3 @@ Hello
 Above is an example of what interacting with a shell looks like. This snippet is an example from an Ubuntu 22.10 Server.
 
 In the above example, `mitch` is the username, and `server` is the hostname. `/tmp` is the current directory. `echo "Hello"` is the command being ran, and the results can be seen at the next line.
-
-### Previous shells
-
-
-#### The Bourne Shell
-
-#### Bournge-Again Shell
