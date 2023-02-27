@@ -12,6 +12,4 @@ $ This is a command to run in your terminal
 # This is a comment
 ```
 
-## Subjects
-* [1-INTRO_TO_SHELLS](/docs/1-INTRO_TO_SHELLS.md)
-* [2-HISTORY_OF_SHELLS](/docs/2-HISTORY_OF_SHELLS.md)
+Thank you Peter Andreas Möller as this guide takes a lot of inspiration from his site. Check it out at http://workshop-bash.com/
