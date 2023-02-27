@@ -1,19 +1,19 @@
 # Arrays
 
-Bash allows you to store arrays
+Bash has the capability to store arrays
 
 ```bash
 $ directories=(dir1 dir2 dir3)
 ```
 
-You can access indexed elements of the array
+Array indices can be accessed
 
 ```bash
 $ echo ${directories[0]}
 dir1
 ```
 
-And you can set individual indexes
+Individual indexes can be set
 
 ```bash
 $ directories[3]=dir4
@@ -21,14 +21,14 @@ $ echo ${directories[3]}
 dir4
 ```
 
-You can list all values in an array with the special character `*`
+List all values in an array with the special character `*`
 
 ```bash
 $ echo ${directories[*]}
 dir1 dir2 dir3 dir4
 ```
 
-You can find the number of characters with the `#` operator
+Find the number of elements with the `#` operator
 
 ```bash
 $ echo ${#directories[*]}
@@ -47,7 +47,7 @@ dir3
 dir4
 ```
 
-And we can easily remove each newly creatied directory in a very similar fashion
+Remove each newly creatied directory in a very similar fashion
 
 
 ```bash
@@ -56,7 +56,7 @@ $ ls | grep dir
 ```
 
 
-You may also make an associative array (AKA map or dictionary) with the `-A` flag
+An associative array (AKA map or dictionary) can also be made with the `-A` flag
 
 ```bash
 $ declare -A vars
