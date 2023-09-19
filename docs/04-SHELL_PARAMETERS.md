@@ -15,7 +15,7 @@ orange
 You can also do basic math operations with variables
 
 ```bash
-$ eclare -i var1=5
+$ declare -i var1=5
 $ var1+=4
 $ echo $var1
 9
