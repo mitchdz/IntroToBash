@@ -32,7 +32,7 @@ $ echo ${path#*.}
 tar.gz
 ```
 
-To remove the characters afer the first match, use the `%pattern` operator
+To remove the characters afer the first match, use the `%%pattern` operator
 
 ```bash
 $ echo ${path%%.*}
