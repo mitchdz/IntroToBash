@@ -1,0 +1,13 @@
+net0: virtio=FA:83:CE:29:80:A4,bridge=vmbr0,firewall=1
+net0: virtio=BA:D7:93:B1:CD:C0,bridge=vmbr0,firewall=1
+net0: virtio=0E:74:E7:63:AA:8B,bridge=vmbr0,firewall=1
+net0: virtio=6A:B1:DC:52:F6:75,bridge=vmbr0,firewall=1
+net0: virtio=4E:19:ED:8E:CC:75,bridge=vmbr0,firewall=1
+net0: virtio=DE:9D:A0:21:49:01,bridge=vmbr0,firewall=1
+net0: virtio=2A:22:FF:CE:43:D9,bridge=vmbr0,firewall=1
+net0: virtio=E6:9F:86:1E:C8:77,bridge=vmbr0,firewall=1
+net0: virtio=56:E6:33:63:E9:E3,bridge=vmbr0,firewall=1
+net0: virtio=9A:7E:5B:46:8F:3C,bridge=vmbr0,firewall=1
+net0: virtio=2A:37:9E:B2:03:E9,bridge=vmbr0,firewall=1
+net0: virtio=AE:FB:7E:06:D9:85,bridge=vmbr0,firewall=1
+net0: virtio=4E:C1:70:B1:41:77,bridge=vmbr0,firewall=1
